@@ -90,8 +90,6 @@ O sistema implementa autenticação baseada em **JWT**, garantindo segurança no
 ---
 
 ## 📈 Possíveis Melhorias Futuras
-- Implementação completa do quadro Kanban (drag-and-drop)  
-- Criação, edição e exclusão de tarefas  
 - Sistema de comentários  
 - Notificações em tempo real  
 - Controle de permissões por usuário  
